@@ -45,7 +45,7 @@ bash cron.sh
 ## Current Pitfalls With The Script
 
 - One problem is that we're using selenium and when navigating to pages sometimes we will get a captcha page, which will make the script fail. We can solve this by using [something like this](https://2captcha.com/blog/how-to-use-2captcha-solver-extension-in-puppeteer) in the future.
-- Another problem is that sometimes a **different** version of the home pagthat does not contain the search bar will be loaded, I will have to investigate this further to see why this is happening.
+- Another problem is that sometimes a **different** version of the home page that does not contain the search bar will be loaded, I will have to investigate this further to see why this is happening.
 
 ## My approach to this script
 
