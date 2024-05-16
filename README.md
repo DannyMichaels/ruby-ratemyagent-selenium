@@ -4,7 +4,7 @@ A script that goes to Rate-My-Agent.com and ensures that the website is working 
 
 ## Installation
 
-make sure to install the gems `selenium-webdriver` and `mail`
+make sure to install the gems `selenium-webdriver`, `mail` and `dotenv`
 
 ```bash
 gem install selenium-webdriver
